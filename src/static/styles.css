@@ -81,10 +81,13 @@ section h3 {
   border-radius: 4px;
 }
 
+
 .participants-list {
   margin-top: 6px;
-  margin-left: 18px;
+  margin-left: 0;
   color: #3949ab;
+  list-style: none;
+  padding-left: 0;
 }
 
 .participant-email {
