@@ -1,2 +1,7 @@
 fastapi
+pytest
+httpx
+fastapi
 uvicorn
+pytest
+httpx
